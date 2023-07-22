@@ -1,2 +1,4 @@
 # CC2530
 My  C code for CC2530
+IAR 8.0
+IAR 10.0
